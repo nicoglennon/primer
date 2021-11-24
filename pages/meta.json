@@ -1,6 +1,16 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
+  "basics": "Basics",
+  "bitcoin": "Bitcoin",
+  "ethereum": "Ethereum",
+  "defi": "DeFi (Decentralized Finance)",
+  "nfts": "NFTs & Cryptoart",
+  "daos": "DAOs",
+  "web3": "Putting it all together: Web3",
+  "start": "How to Get Started",
+  "reading": "Further Reading",
+  "follow": "Keeping Up",
+  "credits": "Credits & Requests",
   "features": "Features",
   "themes": "Themes",
   "advanced": "Advanced"

@@ -1,12 +1,13 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  github: 'https://github.com/nicoglennon/crypto-primer',
+  docsRepositoryBase:
+    'https://github.com/nicoglennon/crypto-primer/blob/master',
+  titleSuffix: ' – Crypto 101',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Primer:</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        Crypto 101
       </span>
     </>
   ),
@@ -57,11 +58,19 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  search: true,
-  prevLinks: true,
+  search: false,
+  prevLinks: false,
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  footerText: (
+    <>
+      Made by{' '}
+      <a href="https://twitter.com/nicoglennon" target="_blank">
+        Nico
+      </a>{' '}
+      in 🗽 © {new Date().getFullYear()}
+    </>
+  ),
+  unstable_faviconGlyph: '🏁',
 }
