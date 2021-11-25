@@ -16,17 +16,20 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Primer: Crypto 101" />
+      <meta
+        name="description"
+        content="Your beginner's guide to crypto, web3 and the metaverse"
+      />
       <meta name="og:description" content="Primer: Crypto 101" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta
         name="twitter:image"
-        content="https://primer.vercel.app/intro.png"
+        content="https://primer.vercel.app/intro.jpeg"
       />
       <meta name="twitter:site:domain" content="primer.vercel.app" />
       <meta name="twitter:url" content="https://primer.vercel.app" />
       <meta name="og:title" content="Primer: Crypto 101" />
-      <meta name="og:image" content="https://primer.vercel.app/intro.png" />
+      <meta name="og:image" content="https://primer.vercel.app/intro.jpeg" />
     </>
   ),
   search: false,
