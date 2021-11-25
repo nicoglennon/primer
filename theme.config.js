@@ -22,14 +22,11 @@ export default {
       />
       <meta name="og:description" content="Primer: Crypto 101" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta
-        name="twitter:image"
-        content="https://primer.vercel.app/intro.jpeg"
-      />
-      <meta name="twitter:site:domain" content="primer.vercel.app" />
-      <meta name="twitter:url" content="https://primer.vercel.app" />
+      <meta name="twitter:image" content="https://primer.guide/index.jpeg" />
+      <meta name="twitter:site:domain" content="primer.guide" />
+      <meta name="twitter:url" content="https://primer.guide" />
       <meta name="og:title" content="Primer: Crypto 101" />
-      <meta name="og:image" content="https://primer.vercel.app/intro.jpeg" />
+      <meta name="og:image" content="https://primer.guide/index.jpeg" />
     </>
   ),
   search: false,
