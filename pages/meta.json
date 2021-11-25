@@ -1,17 +1,14 @@
 {
   "index": "Introduction",
-  "basics": "Basics",
-  "bitcoin": "Bitcoin",
-  "ethereum": "Ethereum",
-  "defi": "DeFi (Decentralized Finance)",
-  "nfts": "NFTs & Cryptoart",
-  "daos": "DAOs",
-  "web3": "Putting it all together: Web3",
-  "start": "How to Get Started",
-  "reading": "Further Reading",
-  "follow": "Keeping Up",
-  "credits": "Credits & Requests",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "basics": "1. Basics",
+  "bitcoin": "2. Bitcoin",
+  "ethereum": "3. Ethereum",
+  "defi": "4. DeFi (Decentralized Finance)",
+  "nfts": "5. NFTs & Cryptoart",
+  "daos": "6. DAOs",
+  "web3": "7. Putting it all together: Web3",
+  "start": "8. How to Get Started",
+  "reading": "9. Further Reading",
+  "follow": "10. Keeping Up",
+  "credits": "Credits & Requests"
 }
