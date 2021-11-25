@@ -20,7 +20,10 @@ export default {
         name="description"
         content="Your beginner's guide to crypto, web3 and the metaverse 🪐"
       />
-      <meta name="og:description" content="Primer: Crypto 101" />
+      <meta
+        name="og:description"
+        content="Your beginner's guide to crypto, web3 and the metaverse 🪐"
+      />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://primer.guide/index.jpeg" />
       <meta name="twitter:site:domain" content="primer.guide" />
