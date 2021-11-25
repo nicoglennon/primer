@@ -18,7 +18,7 @@ export default {
       <meta httpEquiv="Content-Language" content="en" />
       <meta
         name="description"
-        content="Your beginner's guide to crypto, web3 and the metaverse"
+        content="Your beginner's guide to crypto, web3 and the metaverse 🪐"
       />
       <meta name="og:description" content="Primer: Crypto 101" />
       <meta name="twitter:card" content="summary_large_image" />
